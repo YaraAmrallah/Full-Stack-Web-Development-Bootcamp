@@ -1,12 +1,72 @@
 body {
   /*background-color: #c0a1cc;*/
-  background-color: #b4bda8;
+  /*background-color: #b4bda8;*/
+  background-color: #d6e0f0;
 }
 
 hr {
   border-style: none;
   background-color: #ffffff00;
-  border-top: dotted 5px #f56a79;
+  border-top: dotted 5px gray;
   height: 0;
   width: 5%;
+}
+
+/*
+#f56a79
+#ff427f
+*/
+h1 {
+  color: #ffffff;
+  /*-webkit-text-stroke-width: 0.4px;
+  -webkit-text-stroke-color: grey;*/
+  text-shadow: 2px 2px 5px #bc658d;
+  font-family: 'Dancing Script', cursive;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #bc658d;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 27px;
+}
+
+h3 {
+  color: #bc658d;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+p {
+  font-family: 'Cairo', sans-serif;
+  /*font-size: 20px;*/
+  line-height: 1.3;
+}
+
+ul {
+  font-family: 'Cairo', sans-serif;
+  line-height: 1.3;
+}
+
+table {
+  font-family: 'Cairo', sans-serif;
+  line-height: 1.3;
+}
+
+a {
+  font-family: 'Dancing Script', cursive;
+  text-decoration: none;
+}
+
+ol {
+  font-family: 'Cairo', sans-serif;
+  line-height: 1.3;
+}
+
+form {
+  font-family: 'Cairo', sans-serif;
+  line-height: 1.3;
 }
