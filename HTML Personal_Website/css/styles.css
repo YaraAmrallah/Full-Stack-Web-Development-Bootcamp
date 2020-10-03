@@ -1,7 +1,8 @@
 body {
   /*background-color: #c0a1cc;*/
   /*background-color: #b4bda8;*/
-  background-color: #d6e0f0;
+  /*background-color: #d6e0f0;*/
+  background-color: black
 }
 
 hr {
@@ -44,29 +45,35 @@ p {
   font-family: 'Cairo', sans-serif;
   /*font-size: 20px;*/
   line-height: 1.3;
+  color: white;
 }
 
 ul {
   font-family: 'Cairo', sans-serif;
   line-height: 1.3;
+  color: white;
 }
 
 table {
   font-family: 'Cairo', sans-serif;
   line-height: 1.3;
+  color: white;
 }
 
 a {
   font-family: 'Dancing Script', cursive;
   text-decoration: none;
+  color: #b4bda8;
 }
 
 ol {
   font-family: 'Cairo', sans-serif;
   line-height: 1.3;
+  color: white;
 }
 
 form {
   font-family: 'Cairo', sans-serif;
   line-height: 1.3;
+  color: white;
 }
