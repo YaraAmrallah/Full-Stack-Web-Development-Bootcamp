@@ -1,0 +1,36 @@
+h1 {
+  color: #d64700;
+  font-family: 'Sofia', cursive;
+  font-size: 100px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 12px;
+}
+
+p {
+  font-family: 'Sofia', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+h1:hover {
+  text-shadow: 2px 2px 5px gold;
+}
+
+img {
+  align-items: center;
+  height: 150px;
+  width: 150px;
+  /*background-color: red;*/
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
