@@ -140,6 +140,7 @@ function beer() {
 
 // Fibonacci Challenge
 function fibonaccigenerator (n){
+    n--;
     var fib = [];
 
     for (var i = 0; i <= n; i++)
